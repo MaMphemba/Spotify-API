@@ -4,7 +4,7 @@ const settings = {
 	url: 'https://spotify23.p.rapidapi.com/albums/?ids=0bRAth39i98n7qrxubZ00K',
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'a65b48ed20msh53711226c62b1f2p1c3aebjsn2521b846cadd',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'spotify23.p.rapidapi.com'
 	}
 };
